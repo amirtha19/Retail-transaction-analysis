@@ -1,4 +1,5 @@
-# Retail-transaction-analysis
+# [Retail-transaction-analysis](https://public.tableau.com/app/profile/amirthavarshini3434/viz/Retaildashboard_16908244875170/Dashboard1)
+
 
 We have two Excel data. Both have the same fields from different data sources of transactions of particular retail stores. I built an interactive dashboard with metrics that could help us improve and make decisions and campaigns.
 
