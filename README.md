@@ -3,6 +3,7 @@
 
 We have two Excel data. Both have the same fields from different data sources of transactions of particular retail stores. I built an interactive dashboard with metrics that could help us improve and make decisions and campaigns.
 
+![Alt Text](Dashboard.png)
 
 ### Data Dictionary
 
@@ -59,4 +60,4 @@ We have two Excel data. Both have the same fields from different data sources of
 - Type: Numeric
 
 
-![Alt Text](Dashboard.png)
+
